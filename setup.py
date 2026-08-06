@@ -17,6 +17,7 @@ setup(
         "passlib>=1.7.4",
         "python-multipart>=0.0.6",
         "psutil>=5.9.0",
+        "email-validator>=2.0.0",
     ],
     extras_require={
         "dev": [
