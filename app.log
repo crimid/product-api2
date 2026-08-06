@@ -1,0 +1,1622 @@
+2026-08-06 12:40:16,795 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:19,090 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:20,710 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:22,585 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:24,390 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:25,908 - app.main - INFO - POST /login - Status: 401 - Time: 0.019s
+2026-08-06 12:40:25,914 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:40:25,957 - app.main - INFO - GET /non-existent-endpoint - Status: 404 - Time: 0.011s
+2026-08-06 12:40:25,958 - httpx - INFO - HTTP Request: GET http://testserver/non-existent-endpoint "HTTP/1.1 404 Not Found"
+2026-08-06 12:40:26,005 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:27,801 - app.main - INFO - GET /users/me - Status: 401 - Time: 0.002s
+2026-08-06 12:40:27,802 - httpx - INFO - HTTP Request: GET http://testserver/users/me "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:40:27,834 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:40:27,834 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:40:27,845 - app.main - INFO - GET /products/ - Status: 401 - Time: 0.009s
+2026-08-06 12:40:27,846 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:40:27,886 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:29,449 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:31,124 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:33,156 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:34,793 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:36,381 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:38,212 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:40:38,216 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:40:38,221 - app.main - INFO - POST /products/ - Status: 401 - Time: 0.003s
+2026-08-06 12:40:38,222 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:40:38,273 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:39,902 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:41,812 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:43,670 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:40:45,476 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:28,894 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:30,963 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:32,979 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:34,748 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:36,484 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:38,344 - app.main - INFO - POST /login - Status: 401 - Time: 0.014s
+2026-08-06 12:44:38,345 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:44:38,754 - app.main - INFO - GET /non-existent-endpoint - Status: 404 - Time: 0.010s
+2026-08-06 12:44:38,755 - httpx - INFO - HTTP Request: GET http://testserver/non-existent-endpoint "HTTP/1.1 404 Not Found"
+2026-08-06 12:44:39,162 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:40,878 - app.main - INFO - GET /users/me - Status: 401 - Time: 0.003s
+2026-08-06 12:44:40,879 - httpx - INFO - HTTP Request: GET http://testserver/users/me "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:44:41,290 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:44:41,291 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:44:41,299 - app.main - INFO - GET /products/ - Status: 401 - Time: 0.005s
+2026-08-06 12:44:41,299 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:44:41,733 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:43,565 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:45,387 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:47,266 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:48,939 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:50,629 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:52,643 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:44:52,645 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:44:52,652 - app.main - INFO - POST /products/ - Status: 401 - Time: 0.004s
+2026-08-06 12:44:52,654 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:44:53,061 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:55,027 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:56,764 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:44:58,678 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:45:00,475 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Pc\product-api2\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-08-06 12:48:36,321 - app.main - INFO - POST /login - Status: 401 - Time: 0.026s
+2026-08-06 12:48:36,324 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:48:36,755 - app.main - INFO - GET /non-existent-endpoint - Status: 404 - Time: 0.017s
+2026-08-06 12:48:36,756 - httpx - INFO - HTTP Request: GET http://testserver/non-existent-endpoint "HTTP/1.1 404 Not Found"
+2026-08-06 12:48:38,853 - app.main - INFO - GET /users/me - Status: 401 - Time: 0.003s
+2026-08-06 12:48:38,854 - httpx - INFO - HTTP Request: GET http://testserver/users/me "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:48:39,239 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:48:39,240 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:48:39,246 - app.main - INFO - GET /products/ - Status: 401 - Time: 0.005s
+2026-08-06 12:48:39,246 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:48:50,676 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:48:50,677 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:48:50,682 - app.main - INFO - POST /products/ - Status: 401 - Time: 0.003s
+2026-08-06 12:48:50,683 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:51:57,360 - app.main - INFO - POST /register - Status: 201 - Time: 0.649s
+2026-08-06 12:51:57,366 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:51:58,209 - app.main - INFO - POST /register - Status: 201 - Time: 0.513s
+2026-08-06 12:51:58,211 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:51:58,217 - app.main - INFO - POST /register - Status: 409 - Time: 0.003s
+2026-08-06 12:51:58,217 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 409 Conflict"
+2026-08-06 12:51:58,997 - app.main - INFO - POST /register - Status: 201 - Time: 0.468s
+2026-08-06 12:51:58,999 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:51:59,006 - app.main - INFO - POST /register - Status: 409 - Time: 0.005s
+2026-08-06 12:51:59,007 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 409 Conflict"
+2026-08-06 12:51:59,879 - app.main - INFO - POST /register - Status: 201 - Time: 0.535s
+2026-08-06 12:51:59,883 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:00,414 - app.main - INFO - POST /login - Status: 200 - Time: 0.526s
+2026-08-06 12:52:00,417 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:01,209 - app.main - INFO - POST /register - Status: 201 - Time: 0.474s
+2026-08-06 12:52:01,210 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:01,622 - app.main - INFO - POST /login - Status: 401 - Time: 0.410s
+2026-08-06 12:52:01,624 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:52:01,964 - app.main - INFO - POST /login - Status: 401 - Time: 0.021s
+2026-08-06 12:52:01,966 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:52:02,296 - app.main - INFO - GET /non-existent-endpoint - Status: 404 - Time: 0.011s
+2026-08-06 12:52:02,296 - httpx - INFO - HTTP Request: GET http://testserver/non-existent-endpoint "HTTP/1.1 404 Not Found"
+2026-08-06 12:52:03,098 - app.main - INFO - POST /register - Status: 201 - Time: 0.492s
+2026-08-06 12:52:03,100 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:03,521 - app.main - INFO - POST /login - Status: 200 - Time: 0.418s
+2026-08-06 12:52:03,523 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:03,528 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:03,529 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:03,598 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.066s
+2026-08-06 12:52:03,601 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:04,250 - app.main - INFO - GET /users/me - Status: 401 - Time: 0.004s
+2026-08-06 12:52:04,252 - httpx - INFO - HTTP Request: GET http://testserver/users/me "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:52:04,568 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:04,570 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:04,580 - app.main - INFO - GET /products/ - Status: 401 - Time: 0.007s
+2026-08-06 12:52:04,581 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:52:05,365 - app.main - INFO - POST /register - Status: 201 - Time: 0.476s
+2026-08-06 12:52:05,367 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:05,782 - app.main - INFO - POST /login - Status: 200 - Time: 0.413s
+2026-08-06 12:52:05,784 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:05,786 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:05,787 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:05,851 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.062s
+2026-08-06 12:52:05,855 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:05,873 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.013s
+2026-08-06 12:52:05,876 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:05,946 - app.main - INFO - PATCH /products/1 - Status: 200 - Time: 0.067s
+2026-08-06 12:52:05,948 - httpx - INFO - HTTP Request: PATCH http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:06,007 - app.main - INFO - DELETE /products/1 - Status: 204 - Time: 0.058s
+2026-08-06 12:52:06,011 - httpx - INFO - HTTP Request: DELETE http://testserver/products/1 "HTTP/1.1 204 No Content"
+2026-08-06 12:52:06,026 - app.main - INFO - GET /products/1 - Status: 404 - Time: 0.012s
+2026-08-06 12:52:06,028 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 404 Not Found"
+2026-08-06 12:52:06,827 - app.main - INFO - POST /register - Status: 201 - Time: 0.464s
+2026-08-06 12:52:06,829 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:07,318 - app.main - INFO - POST /login - Status: 200 - Time: 0.488s
+2026-08-06 12:52:07,319 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:08,323 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,323 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,382 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:08,383 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,385 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,386 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,443 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:08,445 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,447 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:08,448 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,507 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:08,508 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,511 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,512 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,568 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:52:08,570 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,573 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,573 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,632 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:08,634 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,637 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,638 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,712 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.072s
+2026-08-06 12:52:08,713 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,715 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,716 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,775 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:52:08,777 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,779 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,779 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,835 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.054s
+2026-08-06 12:52:08,837 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,840 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:08,841 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,900 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:08,901 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,903 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,904 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:08,960 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:52:08,961 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:08,963 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:08,964 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,023 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:09,025 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,027 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:09,028 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,113 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.084s
+2026-08-06 12:52:09,114 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,117 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:09,118 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,177 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:09,179 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,181 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:09,182 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,239 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.054s
+2026-08-06 12:52:09,240 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,242 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:09,243 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,299 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:52:09,301 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,303 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:09,304 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,360 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:52:09,362 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,365 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:09,366 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,426 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:52:09,428 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:09,430 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:09,432 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:09,488 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:52:09,490 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,266 - app.main - INFO - POST /register - Status: 201 - Time: 0.472s
+2026-08-06 12:52:10,268 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,691 - app.main - INFO - POST /login - Status: 200 - Time: 0.421s
+2026-08-06 12:52:10,692 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:10,695 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:10,696 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:10,756 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:52:10,758 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,761 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:10,762 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:10,820 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:52:10,822 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,824 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:10,825 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:10,883 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:52:10,885 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,888 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:10,888 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:10,946 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:52:10,947 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:10,949 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:10,950 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,008 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:11,010 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,013 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,014 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,077 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.061s
+2026-08-06 12:52:11,079 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,082 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,083 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,144 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:52:11,145 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,148 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,149 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,209 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:52:11,211 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,214 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,215 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,275 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:52:11,277 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,279 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,280 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,348 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.067s
+2026-08-06 12:52:11,350 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:11,354 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,356 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,368 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.010s
+2026-08-06 12:52:11,371 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,375 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,376 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,386 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,387 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,389 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,390 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,395 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,396 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,398 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,399 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,404 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,406 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,407 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,408 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,414 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,415 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,417 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,417 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,423 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,424 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,426 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,427 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,432 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,434 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,435 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,436 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,442 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,443 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,445 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,445 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,451 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,452 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,454 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,455 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,460 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,461 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,463 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,464 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,469 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,470 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,472 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,473 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,478 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,479 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,481 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,482 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,487 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,488 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,490 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,491 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,496 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,497 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,499 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,500 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,505 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,506 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,508 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,509 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,515 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:52:11,516 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,518 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,519 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,524 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:52:11,525 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,528 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,529 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,537 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,539 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,542 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,543 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,551 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,552 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,556 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,557 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,564 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:52:11,566 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,569 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,570 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,579 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,580 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,583 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,584 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,592 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,594 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,597 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,597 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,607 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,609 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,611 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:11,612 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,620 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,622 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,625 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,626 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,633 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:52:11,635 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,638 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,639 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,647 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,649 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,652 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,653 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,661 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:52:11,662 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,666 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,667 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,674 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:52:11,676 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,679 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,680 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,689 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,691 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,694 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,696 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,704 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,706 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,709 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,710 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,719 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,721 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,724 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,726 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,735 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:52:11,737 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,742 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,743 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,753 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,755 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,758 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,759 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,769 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:52:11,771 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,774 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,775 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,785 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,787 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,790 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,792 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,803 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.009s
+2026-08-06 12:52:11,805 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,810 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,811 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,829 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.015s
+2026-08-06 12:52:11,831 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,835 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,838 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,853 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.009s
+2026-08-06 12:52:11,856 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,860 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,861 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,873 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.009s
+2026-08-06 12:52:11,875 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,879 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,880 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,891 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,893 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,896 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,897 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,910 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.010s
+2026-08-06 12:52:11,913 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,916 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,919 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,930 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,933 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,936 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,937 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,948 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,950 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,954 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,955 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,966 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,968 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,972 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,974 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:11,984 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:11,987 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:11,990 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:11,991 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:12,002 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:12,005 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:12,009 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:12,010 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:12,021 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:12,023 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:12,027 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:12,028 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:12,040 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:12,042 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:12,045 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:12,046 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:12,058 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:12,062 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:12,066 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:12,067 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:12,078 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:52:12,081 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:12,933 - app.main - INFO - POST /register - Status: 201 - Time: 0.502s
+2026-08-06 12:52:12,937 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:13,371 - app.main - INFO - POST /login - Status: 200 - Time: 0.430s
+2026-08-06 12:52:13,372 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,376 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:13,377 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:13,455 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.077s
+2026-08-06 12:52:13,457 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:13,465 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,466 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,473 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,475 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,481 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,483 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,490 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,492 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,501 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,503 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,511 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,513 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,522 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,524 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,532 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:13,534 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,543 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,546 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,555 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:13,557 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,566 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,567 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,572 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,573 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,579 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,580 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,585 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,587 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,592 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,593 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,598 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,600 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,605 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,606 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,611 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,613 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,618 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,619 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,625 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,626 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,631 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,632 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,637 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,639 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,646 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,648 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,656 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,658 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,665 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,666 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,674 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,675 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,682 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,684 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,693 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,694 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,703 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,705 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,714 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:13,716 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,727 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.008s
+2026-08-06 12:52:13,729 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,737 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,738 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,747 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:13,749 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,757 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,759 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,768 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:13,769 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,777 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,779 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,786 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,788 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,796 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:13,798 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,805 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,807 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,813 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,815 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,820 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,821 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,826 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,828 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,834 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,835 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,840 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,841 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,846 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,848 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,853 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,854 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,860 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,861 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,866 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,867 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,873 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,874 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,879 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,881 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,886 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,887 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,893 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,894 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,899 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,901 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,906 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,907 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,912 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,914 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,919 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,920 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,926 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,927 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,932 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,934 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,939 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,940 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,945 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,947 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,952 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,953 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,958 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,960 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,965 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,966 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,972 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,973 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,978 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,979 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,985 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:13,987 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,992 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:13,993 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:13,998 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,000 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,005 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,006 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,011 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,013 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,018 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,019 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,025 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,026 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,031 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,032 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,038 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,039 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,044 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,045 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,051 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,052 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,058 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,059 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,064 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,066 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,071 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,073 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,078 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,079 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,086 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:14,087 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,093 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,094 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,100 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:14,101 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,106 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,108 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,114 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:14,115 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,120 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,121 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,127 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,128 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,133 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,134 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,140 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,141 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,146 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,148 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,153 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,154 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,160 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,162 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,168 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:14,170 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,175 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,176 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,182 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,183 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,188 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,190 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,195 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:52:14,197 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,204 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:14,207 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,217 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:14,219 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,229 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.008s
+2026-08-06 12:52:14,232 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,241 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:14,244 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,252 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:14,254 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,263 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:52:14,264 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,272 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:52:14,273 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,283 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:14,285 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:14,294 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:52:14,296 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:15,086 - app.main - INFO - POST /register - Status: 201 - Time: 0.481s
+2026-08-06 12:52:15,089 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:15,528 - app.main - INFO - POST /login - Status: 200 - Time: 0.435s
+2026-08-06 12:52:15,530 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:15,952 - app.main - INFO - POST /login - Status: 200 - Time: 0.420s
+2026-08-06 12:52:15,954 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:16,372 - app.main - INFO - POST /login - Status: 200 - Time: 0.417s
+2026-08-06 12:52:16,374 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:16,789 - app.main - INFO - POST /login - Status: 200 - Time: 0.414s
+2026-08-06 12:52:16,791 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:17,264 - app.main - INFO - POST /login - Status: 200 - Time: 0.472s
+2026-08-06 12:52:17,267 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:17,675 - app.main - INFO - POST /login - Status: 200 - Time: 0.406s
+2026-08-06 12:52:17,677 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:18,090 - app.main - INFO - POST /login - Status: 200 - Time: 0.411s
+2026-08-06 12:52:18,092 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:18,879 - app.main - INFO - POST /register - Status: 201 - Time: 0.458s
+2026-08-06 12:52:18,880 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:19,300 - app.main - INFO - POST /login - Status: 200 - Time: 0.418s
+2026-08-06 12:52:19,302 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:19,306 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:19,307 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:19,370 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.062s
+2026-08-06 12:52:19,372 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:19,689 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:19,690 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:19,694 - app.main - INFO - POST /products/ - Status: 401 - Time: 0.002s
+2026-08-06 12:52:19,696 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:52:20,537 - app.main - INFO - POST /register - Status: 201 - Time: 0.526s
+2026-08-06 12:52:20,539 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:20,974 - app.main - INFO - POST /login - Status: 200 - Time: 0.433s
+2026-08-06 12:52:20,976 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:20,979 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:20,979 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:21,040 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:52:21,042 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:21,047 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:21,048 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:21,061 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.010s
+2026-08-06 12:52:21,064 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:52:21,882 - app.main - INFO - POST /register - Status: 201 - Time: 0.519s
+2026-08-06 12:52:21,885 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:22,390 - app.main - INFO - POST /login - Status: 200 - Time: 0.502s
+2026-08-06 12:52:22,392 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:22,395 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:22,396 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:22,455 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:52:22,458 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:22,473 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.011s
+2026-08-06 12:52:22,475 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:23,270 - app.main - INFO - POST /register - Status: 201 - Time: 0.470s
+2026-08-06 12:52:23,273 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:23,708 - app.main - INFO - POST /login - Status: 200 - Time: 0.432s
+2026-08-06 12:52:23,710 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:23,719 - app.main - INFO - GET /products/99999 - Status: 404 - Time: 0.006s
+2026-08-06 12:52:23,720 - httpx - INFO - HTTP Request: GET http://testserver/products/99999 "HTTP/1.1 404 Not Found"
+2026-08-06 12:52:24,506 - app.main - INFO - POST /register - Status: 201 - Time: 0.498s
+2026-08-06 12:52:24,508 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:24,936 - app.main - INFO - POST /login - Status: 200 - Time: 0.425s
+2026-08-06 12:52:24,937 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:24,941 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:52:24,941 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:25,001 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:52:25,003 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:25,083 - app.main - INFO - PATCH /products/1 - Status: 200 - Time: 0.076s
+2026-08-06 12:52:25,085 - httpx - INFO - HTTP Request: PATCH http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:52:25,905 - app.main - INFO - POST /register - Status: 201 - Time: 0.467s
+2026-08-06 12:52:25,907 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:52:26,324 - app.main - INFO - POST /login - Status: 200 - Time: 0.414s
+2026-08-06 12:52:26,325 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:52:26,329 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:52:26,330 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:52:26,396 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.064s
+2026-08-06 12:52:26,398 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:52:26,466 - app.main - INFO - DELETE /products/1 - Status: 204 - Time: 0.064s
+2026-08-06 12:52:26,470 - httpx - INFO - HTTP Request: DELETE http://testserver/products/1 "HTTP/1.1 204 No Content"
+2026-08-06 12:52:26,484 - app.main - INFO - GET /products/1 - Status: 404 - Time: 0.011s
+2026-08-06 12:52:26,486 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 404 Not Found"
+2026-08-06 12:58:05,792 - app.main - INFO - POST /register - Status: 201 - Time: 0.533s
+2026-08-06 12:58:05,800 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:06,630 - app.main - INFO - POST /register - Status: 201 - Time: 0.479s
+2026-08-06 12:58:06,633 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:06,643 - app.main - INFO - POST /register - Status: 409 - Time: 0.006s
+2026-08-06 12:58:06,645 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 409 Conflict"
+2026-08-06 12:58:07,438 - app.main - INFO - POST /register - Status: 201 - Time: 0.489s
+2026-08-06 12:58:07,440 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:07,452 - app.main - INFO - POST /register - Status: 409 - Time: 0.008s
+2026-08-06 12:58:07,453 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 409 Conflict"
+2026-08-06 12:58:08,246 - app.main - INFO - POST /register - Status: 201 - Time: 0.471s
+2026-08-06 12:58:08,248 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:08,701 - app.main - INFO - POST /login - Status: 200 - Time: 0.451s
+2026-08-06 12:58:08,703 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:09,470 - app.main - INFO - POST /register - Status: 201 - Time: 0.470s
+2026-08-06 12:58:09,473 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:09,898 - app.main - INFO - POST /login - Status: 401 - Time: 0.422s
+2026-08-06 12:58:09,900 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:58:10,251 - app.main - INFO - POST /login - Status: 401 - Time: 0.015s
+2026-08-06 12:58:10,252 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:58:10,582 - app.main - INFO - GET /non-existent-endpoint - Status: 404 - Time: 0.012s
+2026-08-06 12:58:10,583 - httpx - INFO - HTTP Request: GET http://testserver/non-existent-endpoint "HTTP/1.1 404 Not Found"
+2026-08-06 12:58:11,385 - app.main - INFO - POST /register - Status: 201 - Time: 0.489s
+2026-08-06 12:58:11,388 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:11,797 - app.main - INFO - POST /login - Status: 200 - Time: 0.405s
+2026-08-06 12:58:11,799 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:11,801 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:11,802 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:11,812 - app.main - INFO - POST /products/ - Status: 422 - Time: 0.009s
+2026-08-06 12:58:11,813 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 422 Unprocessable Entity"
+2026-08-06 12:58:12,104 - app.main - INFO - GET /users/me - Status: 401 - Time: 0.002s
+2026-08-06 12:58:12,105 - httpx - INFO - HTTP Request: GET http://testserver/users/me "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:58:12,406 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:12,408 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:12,415 - app.main - INFO - GET /products/ - Status: 401 - Time: 0.005s
+2026-08-06 12:58:12,415 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:58:13,263 - app.main - INFO - POST /register - Status: 201 - Time: 0.517s
+2026-08-06 12:58:13,266 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:13,687 - app.main - INFO - POST /login - Status: 200 - Time: 0.417s
+2026-08-06 12:58:13,689 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:13,691 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:13,691 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:13,753 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.060s
+2026-08-06 12:58:13,754 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:13,764 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.007s
+2026-08-06 12:58:13,765 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:13,825 - app.main - INFO - PATCH /products/1 - Status: 200 - Time: 0.058s
+2026-08-06 12:58:13,826 - httpx - INFO - HTTP Request: PATCH http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:13,884 - app.main - INFO - DELETE /products/1 - Status: 204 - Time: 0.056s
+2026-08-06 12:58:13,886 - httpx - INFO - HTTP Request: DELETE http://testserver/products/1 "HTTP/1.1 204 No Content"
+2026-08-06 12:58:13,898 - app.main - INFO - GET /products/1 - Status: 404 - Time: 0.009s
+2026-08-06 12:58:13,899 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 404 Not Found"
+2026-08-06 12:58:14,688 - app.main - INFO - POST /register - Status: 201 - Time: 0.483s
+2026-08-06 12:58:14,692 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:15,132 - app.main - INFO - POST /login - Status: 200 - Time: 0.436s
+2026-08-06 12:58:15,134 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:16,138 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,139 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,199 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:58:16,201 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,204 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,205 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,263 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:58:16,264 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,266 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,267 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,326 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:58:16,329 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,333 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,334 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,397 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.061s
+2026-08-06 12:58:16,399 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,402 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,403 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,464 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:58:16,466 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,470 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,471 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,532 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:58:16,534 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,536 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,537 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,621 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.083s
+2026-08-06 12:58:16,623 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,626 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,627 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,684 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:58:16,686 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,688 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,688 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,745 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:58:16,746 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,749 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,750 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,808 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:58:16,809 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,811 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:16,811 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,884 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.071s
+2026-08-06 12:58:16,887 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,892 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,893 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:16,964 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.067s
+2026-08-06 12:58:16,966 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:16,970 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:16,972 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,038 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.063s
+2026-08-06 12:58:17,040 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:17,043 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:17,044 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,101 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:58:17,103 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:17,106 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:17,107 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,163 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.055s
+2026-08-06 12:58:17,165 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:17,167 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:17,169 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,228 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:58:17,230 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:17,232 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:17,233 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,294 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:58:17,297 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:17,301 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:17,303 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:17,366 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:58:17,369 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,128 - app.main - INFO - POST /register - Status: 201 - Time: 0.454s
+2026-08-06 12:58:18,130 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,539 - app.main - INFO - POST /login - Status: 200 - Time: 0.407s
+2026-08-06 12:58:18,541 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:18,544 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:18,545 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,625 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.079s
+2026-08-06 12:58:18,628 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,633 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:18,634 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,710 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.072s
+2026-08-06 12:58:18,712 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,715 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:18,716 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,772 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.053s
+2026-08-06 12:58:18,773 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,776 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:18,776 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,835 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:58:18,837 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,839 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:18,840 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,900 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.058s
+2026-08-06 12:58:18,902 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,907 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:18,908 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:18,968 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.057s
+2026-08-06 12:58:18,970 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:18,972 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:18,972 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,029 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:58:19,031 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:19,035 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,036 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,098 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.060s
+2026-08-06 12:58:19,100 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:19,103 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,105 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,169 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.062s
+2026-08-06 12:58:19,171 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:19,174 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,176 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,241 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.063s
+2026-08-06 12:58:19,243 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:19,246 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,247 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,260 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.011s
+2026-08-06 12:58:19,262 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,265 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,267 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,277 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.008s
+2026-08-06 12:58:19,279 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,281 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,282 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,288 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,290 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,292 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,293 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,301 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,302 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,305 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,306 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,313 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,314 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,317 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,318 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,325 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,326 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,329 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,330 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,337 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,339 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,341 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,342 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,349 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,350 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,353 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,353 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,361 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,362 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,364 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,366 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,373 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,374 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,377 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,378 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,387 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,388 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,390 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,391 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,399 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,400 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,402 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,403 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,410 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,411 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,414 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,415 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,422 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,423 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,426 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,427 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,434 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,435 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,437 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,438 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,444 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,446 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,448 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,448 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,453 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,455 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,456 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,457 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,462 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,464 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,465 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,466 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,471 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,473 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,474 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,475 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,481 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,482 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,484 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,484 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,490 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,491 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,493 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,495 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,501 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,502 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,504 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,505 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,510 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,511 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,513 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,513 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,519 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,520 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,522 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,523 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,529 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,531 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,533 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,534 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,541 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,542 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,544 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,545 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,553 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,554 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,557 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,558 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,565 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,567 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,569 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,570 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,579 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:58:19,580 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,583 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,583 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,591 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,592 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,594 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,595 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,602 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,604 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,606 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,607 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,613 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,615 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,618 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,618 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,625 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,626 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,629 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,630 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,638 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,639 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,642 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,644 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,652 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,653 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,655 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,656 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,663 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,664 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,668 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,669 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,676 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,677 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,679 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,680 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,687 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,688 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,690 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,691 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,696 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,697 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,699 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,700 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,705 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,706 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,710 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,711 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,719 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,721 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,723 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,724 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,731 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,732 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,734 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,735 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,741 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,743 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,745 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,746 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,751 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,752 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,754 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,754 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,760 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.004s
+2026-08-06 12:58:19,762 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,764 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,765 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,771 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,772 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,774 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,775 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,785 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:58:19,787 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,789 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,790 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,797 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,799 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,801 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,802 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,809 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,810 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,813 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,813 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,820 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,821 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,824 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,825 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,834 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.007s
+2026-08-06 12:58:19,835 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,838 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:19,839 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,847 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,849 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,852 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,852 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,860 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.006s
+2026-08-06 12:58:19,861 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,864 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,864 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,877 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.010s
+2026-08-06 12:58:19,878 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:19,881 - app.main - INFO - GET /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:19,881 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:19,888 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.005s
+2026-08-06 12:58:19,890 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:20,663 - app.main - INFO - POST /register - Status: 201 - Time: 0.460s
+2026-08-06 12:58:20,665 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:21,076 - app.main - INFO - POST /login - Status: 200 - Time: 0.409s
+2026-08-06 12:58:21,077 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,080 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:21,081 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:21,179 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.097s
+2026-08-06 12:58:21,180 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:21,188 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,189 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,196 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,197 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,204 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,205 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,212 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,214 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,222 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,224 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,230 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,232 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,240 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,241 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,249 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,250 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,257 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,259 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,266 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,268 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,276 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,278 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,284 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,286 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,293 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,295 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,301 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,303 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,309 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,311 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,316 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,317 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,322 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,323 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,329 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,330 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,336 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,337 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,343 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,344 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,350 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,351 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,356 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,358 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,363 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,364 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,369 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,371 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,376 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,377 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,382 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,383 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,388 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,390 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,395 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,396 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,401 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,402 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,407 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,408 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,414 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,416 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,421 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,422 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,427 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,429 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,434 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,435 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,440 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,442 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,447 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,448 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,453 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,455 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,460 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,461 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,466 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,468 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,473 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,474 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,479 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,480 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,486 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,487 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,492 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,493 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,499 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,500 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,506 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,507 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,512 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,513 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,519 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,520 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,525 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,526 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,532 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,533 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,538 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,539 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,545 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,546 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,551 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,553 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,558 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,559 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,567 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,568 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,575 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,577 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,584 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,585 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,592 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,594 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,606 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,608 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,615 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,616 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,623 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,624 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,631 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,633 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,640 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,642 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,650 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,652 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,659 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,660 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,669 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,670 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,679 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,680 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,687 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,688 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,695 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,696 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,704 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,706 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,714 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,716 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,722 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,724 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,731 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.006s
+2026-08-06 12:58:21,733 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,739 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,740 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,745 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,747 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,752 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,754 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,759 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,760 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,766 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,767 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,773 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,774 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,779 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,780 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,786 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,787 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,792 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,793 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,798 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,800 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,805 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,806 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,811 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,812 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,818 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,819 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,824 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,825 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,831 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,832 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,837 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,839 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,844 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,845 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,850 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,852 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,857 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,858 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,863 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,865 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,870 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,871 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,876 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,878 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,884 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,886 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,891 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,892 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,898 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,899 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,905 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,906 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,911 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,912 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,918 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,919 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,924 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,925 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,931 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,932 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,937 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,938 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,944 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,946 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,951 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,952 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,957 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,958 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,964 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,965 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,970 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,971 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,977 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,978 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,983 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,984 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,989 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.004s
+2026-08-06 12:58:21,991 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:21,997 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:21,999 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:22,005 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:22,007 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:22,013 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:22,015 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:22,871 - app.main - INFO - POST /register - Status: 201 - Time: 0.518s
+2026-08-06 12:58:22,873 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:23,319 - app.main - INFO - POST /login - Status: 200 - Time: 0.443s
+2026-08-06 12:58:23,320 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:23,733 - app.main - INFO - POST /login - Status: 200 - Time: 0.412s
+2026-08-06 12:58:23,735 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:24,149 - app.main - INFO - POST /login - Status: 200 - Time: 0.412s
+2026-08-06 12:58:24,151 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:24,571 - app.main - INFO - POST /login - Status: 200 - Time: 0.419s
+2026-08-06 12:58:24,573 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:25,000 - app.main - INFO - POST /login - Status: 200 - Time: 0.425s
+2026-08-06 12:58:25,002 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:25,410 - app.main - INFO - POST /login - Status: 200 - Time: 0.406s
+2026-08-06 12:58:25,412 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:25,821 - app.main - INFO - POST /login - Status: 200 - Time: 0.406s
+2026-08-06 12:58:25,822 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:26,582 - app.main - INFO - POST /register - Status: 201 - Time: 0.456s
+2026-08-06 12:58:26,584 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:26,988 - app.main - INFO - POST /login - Status: 200 - Time: 0.401s
+2026-08-06 12:58:26,989 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:26,993 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:26,994 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:27,054 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.059s
+2026-08-06 12:58:27,056 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:27,462 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:27,464 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:27,473 - app.main - INFO - POST /products/ - Status: 401 - Time: 0.005s
+2026-08-06 12:58:27,475 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 401 Unauthorized"
+2026-08-06 12:58:28,278 - app.main - INFO - POST /register - Status: 201 - Time: 0.501s
+2026-08-06 12:58:28,281 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:28,711 - app.main - INFO - POST /login - Status: 200 - Time: 0.426s
+2026-08-06 12:58:28,713 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:28,717 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:28,718 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:28,824 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.104s
+2026-08-06 12:58:28,827 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:28,832 - app.main - INFO - GET /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:28,834 - httpx - INFO - HTTP Request: GET http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:28,848 - app.main - INFO - GET /products/ - Status: 200 - Time: 0.011s
+2026-08-06 12:58:28,851 - httpx - INFO - HTTP Request: GET http://testserver/products/ "HTTP/1.1 200 OK"
+2026-08-06 12:58:29,728 - app.main - INFO - POST /register - Status: 201 - Time: 0.454s
+2026-08-06 12:58:29,730 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:30,149 - app.main - INFO - POST /login - Status: 200 - Time: 0.417s
+2026-08-06 12:58:30,150 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:30,153 - app.main - INFO - POST /products - Status: 307 - Time: 0.000s
+2026-08-06 12:58:30,154 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:30,212 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.056s
+2026-08-06 12:58:30,213 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:30,219 - app.main - INFO - GET /products/1 - Status: 200 - Time: 0.005s
+2026-08-06 12:58:30,220 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:30,980 - app.main - INFO - POST /register - Status: 201 - Time: 0.458s
+2026-08-06 12:58:30,981 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:31,388 - app.main - INFO - POST /login - Status: 200 - Time: 0.406s
+2026-08-06 12:58:31,390 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:31,397 - app.main - INFO - GET /products/99999 - Status: 404 - Time: 0.005s
+2026-08-06 12:58:31,398 - httpx - INFO - HTTP Request: GET http://testserver/products/99999 "HTTP/1.1 404 Not Found"
+2026-08-06 12:58:32,154 - app.main - INFO - POST /register - Status: 201 - Time: 0.459s
+2026-08-06 12:58:32,156 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:32,564 - app.main - INFO - POST /login - Status: 200 - Time: 0.406s
+2026-08-06 12:58:32,565 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:32,570 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:32,573 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:32,647 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.071s
+2026-08-06 12:58:32,649 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:32,715 - app.main - INFO - PATCH /products/1 - Status: 200 - Time: 0.063s
+2026-08-06 12:58:32,717 - httpx - INFO - HTTP Request: PATCH http://testserver/products/1 "HTTP/1.1 200 OK"
+2026-08-06 12:58:33,511 - app.main - INFO - POST /register - Status: 201 - Time: 0.464s
+2026-08-06 12:58:33,512 - httpx - INFO - HTTP Request: POST http://testserver/register "HTTP/1.1 201 Created"
+2026-08-06 12:58:33,925 - app.main - INFO - POST /login - Status: 200 - Time: 0.410s
+2026-08-06 12:58:33,927 - httpx - INFO - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-08-06 12:58:33,931 - app.main - INFO - POST /products - Status: 307 - Time: 0.001s
+2026-08-06 12:58:33,932 - httpx - INFO - HTTP Request: POST http://testserver/products "HTTP/1.1 307 Temporary Redirect"
+2026-08-06 12:58:33,997 - app.main - INFO - POST /products/ - Status: 201 - Time: 0.061s
+2026-08-06 12:58:33,998 - httpx - INFO - HTTP Request: POST http://testserver/products/ "HTTP/1.1 201 Created"
+2026-08-06 12:58:34,054 - app.main - INFO - DELETE /products/1 - Status: 204 - Time: 0.054s
+2026-08-06 12:58:34,056 - httpx - INFO - HTTP Request: DELETE http://testserver/products/1 "HTTP/1.1 204 No Content"
+2026-08-06 12:58:34,063 - app.main - INFO - GET /products/1 - Status: 404 - Time: 0.005s
+2026-08-06 12:58:34,064 - httpx - INFO - HTTP Request: GET http://testserver/products/1 "HTTP/1.1 404 Not Found"
